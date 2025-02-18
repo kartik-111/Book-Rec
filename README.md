@@ -1,5 +1,5 @@
 
-# Recommendation System Using Multiple Techniques
+# Book Recommendation System Using Multiple Techniques
 
 ## Overview
 This project implements various **Recommendation System** techniques to predict user preferences based on past interactions. The system incorporates **Content-Based Filtering, Collaborative Filtering, Hybrid Filtering, and Matrix Factorization** methods to improve recommendation accuracy. Additionally, a **Feedforward Neural Network** is implemented for deep learning-based recommendations.
