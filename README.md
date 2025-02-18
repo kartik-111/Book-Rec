@@ -1,6 +1,3 @@
----
-title: Recommendation System Using Multiple Techniques
----
 
 # Recommendation System Using Multiple Techniques
 
